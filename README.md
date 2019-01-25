@@ -1,2 +1,0 @@
-# leesoyeon.github.com
-portfolio
