@@ -278,6 +278,10 @@ ul.list-check li{
     line-height: 32px;
 
 }
+
+ul.list-check li.hidden-list{
+    visibility: hidden;
+}
 ul.list-check li::before {
     content: "\f00c";
     font-family: fontawesome;
